@@ -69,8 +69,7 @@ figure img {
 	width: 3vw;
 }
 
-@media(max-width: 900px)
-{
+@media (max-width: 900px) {
 	.little-img-size-mobile-phone {
 		height: 4vw;
 		width: 4vw;
@@ -81,12 +80,11 @@ figure img {
 		width: 6vw;
 	}
 
-	.adaptaton-for-link{
-		font-size: 4vw!important;
+	.adaptaton-for-link {
+		font-size: 4vw !important;
 	}
 
 }
-
 
 .phone2 {
 	padding-left: 3vw;
@@ -120,11 +118,11 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
-	margin: 0 auto;
+
 	padding-top: 12vw;
-	position: center;
+
 	margin-top: 2vh;
 	min-height: 18vw;
 	width: 18vw;
@@ -138,9 +136,9 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
-	margin: 0 auto;
+
 	padding-top: 12vw;
 	position: center;
 	margin-top: 2vh;
@@ -174,7 +172,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -192,7 +190,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -228,7 +226,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -246,7 +244,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -276,14 +274,13 @@ figure img {
 	color: white;
 }
 
-
 .broshyrovanie-menu-btns {
 	background: #393939 url("../img/broshyrovanie-white.png");
 	background-size: cover;
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -301,7 +298,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -337,7 +334,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -355,7 +352,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -391,7 +388,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -409,7 +406,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -445,7 +442,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -463,7 +460,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -499,7 +496,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -517,7 +514,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -553,7 +550,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -571,7 +568,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -607,7 +604,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -625,7 +622,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -661,7 +658,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -679,7 +676,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -715,7 +712,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -733,7 +730,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -769,7 +766,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -787,7 +784,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -823,7 +820,6 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -841,7 +837,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -877,7 +873,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -895,7 +891,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -931,7 +927,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -949,7 +945,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -985,7 +981,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -1003,7 +999,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -1033,14 +1029,12 @@ figure img {
 	color: white;
 }
 
-
 .design-menu-btns {
 	background: #393939 url("../img/dizain_img_white.png");
 	background-size: cover;
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -1058,7 +1052,7 @@ figure img {
 	outline: none !important;
 	border: 3px solid white;
 	border-radius: 2vw;
-	display: block;
+
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 12vw;
@@ -1115,7 +1109,7 @@ figure img {
 	font: 600 12px / 24px "Open Sans", Helvetica, Arial, "Times New Roman", sans-serif;
 }
 
-.little-bottom-padding{
+.little-bottom-padding {
 	padding-bottom: 20px;
 }
 
@@ -1154,7 +1148,7 @@ figure img {
 	height: 25vw;
 }
 
-.size-of-img-photo-costum{
+.size-of-img-photo-costum {
 	width: 100%;
 	height: 30vw;
 }
@@ -1208,46 +1202,64 @@ table {
 	}
 }
 
-.color-white{
+.color-white {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	color: white;
 	font-size: 1vw;
 }
 
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
 
-* {box-sizing: border-box; margin: 0;}
 .widget {
 
+	font-family: 'Roboto', sans-serif;
+}
 
-  font-family: 'Roboto', sans-serif;
-}
 .widget-title {
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: white;
-  font-size: 1.5vw;
-  padding-left: 15px;
-  margin-bottom: 15px;
-  border-left: 2px solid #ec971f;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: white;
+	font-size: 1.5vw;
+	padding-left: 15px;
+	margin-bottom: 15px;
+	border-left: 2px solid #ec971f;
 }
+
 .widget-list {
-  padding: 0;
-  list-style: none;
+	padding: 0;
+	list-style: none;
 }
+
 .widget-list a:before {
-  content: "\2014";
-  margin-right: 14px;
+	content: "\2014";
+	margin-right: 14px;
 }
+
 .widget-list a {
-  text-decoration: none;
-  outline: none;
-  display: block;
-  padding: 6px 0;
-  letter-spacing: 1px;
+	text-decoration: none;
+	outline: none;
+	display: block;
+	padding: 6px 0;
+	letter-spacing: 1px;
 	font-size: 1vw;
-  font-weight: 300;
-  color: white;
+	font-weight: 300;
+	color: white;
 	transition: .3s linear;
 }
-.widget-list a:hover {color: #ec971f;}
+
+.widget-list a:hover {
+	color: #ec971f;
+}
+
+.carousel{
+	width: 60vw;
+}
+
+.item{
+	width: auto!important;
+	height: auto!important;
+}
