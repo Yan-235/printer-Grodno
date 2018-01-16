@@ -92,6 +92,7 @@ figure img {
 	padding-left: 3vw;
 	font: 600 20px / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
 	color: black !important;
+	transition: .3s linear;
 }
 
 .phone2:hover {
@@ -104,6 +105,7 @@ figure img {
 	padding-left: 4vw;
 	font: 600 20px / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
 	color: black !important;
+	transition: .3s linear;
 }
 
 .phone:hover {
@@ -127,6 +129,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .photo-for-documents-menu-btns:hover {
@@ -148,7 +151,10 @@ figure img {
 
 .photo-for-documents-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -177,6 +183,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .copy-print-menu-btns:hover {
@@ -198,10 +205,13 @@ figure img {
 
 .copy-print-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 }
 
 .copy-print-menu-btns:hover:after {
@@ -227,6 +237,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .termopereplet-menu-btns:hover {
@@ -248,7 +259,10 @@ figure img {
 
 .termopereplet-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -278,6 +292,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .broshyrovanie-menu-btns:hover {
@@ -299,10 +314,13 @@ figure img {
 
 .broshyrovanie-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 }
 
 .broshyrovanie-menu-btns:hover:after {
@@ -328,6 +346,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .listovki-menu-btns:hover {
@@ -349,7 +368,10 @@ figure img {
 
 .listovki-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -378,6 +400,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .broshyri-menu-btns:hover {
@@ -399,10 +422,13 @@ figure img {
 
 .broshyri-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 }
 
 .broshyri-menu-btns:hover:after {
@@ -428,6 +454,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .scan-menu-btns:hover {
@@ -449,7 +476,10 @@ figure img {
 
 .scan-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -478,6 +508,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .laminirovanie-menu-btns:hover {
@@ -499,7 +530,10 @@ figure img {
 
 .laminirovanie-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -528,6 +562,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .visitki-menu-btns:hover {
@@ -549,7 +584,10 @@ figure img {
 
 .visitki-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -578,6 +616,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .photosyveniri-menu-btns:hover {
@@ -599,7 +638,10 @@ figure img {
 
 .photosyveniri-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -628,6 +670,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .nodepads-menu-btns:hover {
@@ -649,7 +692,10 @@ figure img {
 
 .nodepads-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -678,6 +724,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .voblers-hangers-menu-btns:hover {
@@ -699,7 +746,10 @@ figure img {
 
 .voblers-hangers-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: none !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -728,6 +778,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .photocrystals-menu-btns:hover {
@@ -749,7 +800,10 @@ figure img {
 
 .photocrystals-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -778,6 +832,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .magnits-menu-btns:hover {
@@ -799,7 +854,10 @@ figure img {
 
 .magnits-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: none !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -828,6 +886,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .survey-menu-btns:hover {
@@ -849,7 +908,10 @@ figure img {
 
 .survey-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -878,6 +940,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .calendar-menu-btns:hover {
@@ -899,7 +962,10 @@ figure img {
 
 .calendar-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -928,6 +994,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .matirovanie-menu-btns:hover {
@@ -949,7 +1016,10 @@ figure img {
 
 .matirovanie-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -979,6 +1049,7 @@ figure img {
 	min-height: 18vw;
 	width: 18vw;
 	max-width: 18vw;
+	transition: .3s linear;
 }
 
 .design-menu-btns:hover {
@@ -1000,7 +1071,10 @@ figure img {
 
 .design-menu-btns:after {
 	font: 600 1vw / 24px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
-	text-decoration: none;
+	text-decoration: underline !important;
+	outline: none;
+	text-decoration-color: #393939 !important;
+	transition: .3s linear;
 	width: 5vw;
 	color: #ec971f;
 	content: attr(data-title);
@@ -1014,13 +1088,13 @@ figure img {
 	color: white;
 }
 
-.photo-fot-documents-background {
+.photo-for-documents-background {
 	background: url("../img/photo-for-documents.png");
-	background-size: 100%;
+	background-size: cover;
 	display: block;
 	width: 100%;
 	height: 100%;
-	min-height: 60vw;
+	min-height: 45vw;
 }
 
 .bottom-padding {
@@ -1050,14 +1124,34 @@ figure img {
 	height: 24vw;
 }
 
+.size-of-img-pocket-calendar {
+	width: 40vw;
+	height: 20vw;
+}
+
 .size-of-img-listovki {
 	width: 100%;
 	height: 20vw;
 }
 
+.size-of-img-vobler {
+	width: 100%;
+	height: 18vw;
+}
+
+.size-of-img-syveniri {
+	width: 60vw;
+	height: 40vw;
+}
+
 .size-of-img-creative-visitki {
 	width: 30vw;
 	height: 20vw;
+}
+
+.size-of-img-laminirovanie {
+	width: 30vw;
+	height: 25vw;
 }
 
 .size-of-img-photo-costum{
@@ -1066,6 +1160,16 @@ figure img {
 }
 
 .size-of-img-flyers {
+	width: 100%;
+	height: 40vw;
+}
+
+.size-of-img-visitka {
+	width: 60vw;
+	height: 40vw;
+}
+
+.size-of-img-photo-child2 {
 	width: 100%;
 	height: 40vw;
 }
@@ -1087,10 +1191,20 @@ table {
 	border-spacing: 2px;
 }
 
+.size-of-img-book {
+	width: 38vw;
+	height: 30vw;
+}
+
 @media (max-width: 660px) {
 	.size-of-img {
 		width: 50vw;
 		height: 40vw;
+	}
+
+	.size-of-img-book {
+		width: 25vw;
+		height: 20vw;
 	}
 }
 
@@ -1100,3 +1214,40 @@ table {
 	color: white;
 	font-size: 1vw;
 }
+
+
+* {box-sizing: border-box; margin: 0;}
+.widget {
+
+
+  font-family: 'Roboto', sans-serif;
+}
+.widget-title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 1.5vw;
+  padding-left: 15px;
+  margin-bottom: 15px;
+  border-left: 2px solid #ec971f;
+}
+.widget-list {
+  padding: 0;
+  list-style: none;
+}
+.widget-list a:before {
+  content: "\2014";
+  margin-right: 14px;
+}
+.widget-list a {
+  text-decoration: none;
+  outline: none;
+  display: block;
+  padding: 6px 0;
+  letter-spacing: 1px;
+	font-size: 1vw;
+  font-weight: 300;
+  color: white;
+	transition: .3s linear;
+}
+.widget-list a:hover {color: #ec971f;}
