@@ -363,6 +363,16 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="426">
+                  <caret line="168" column="76" lean-forward="false" selection-start-line="168" selection-start-column="76" selection-end-line="168" selection-end-column="76" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="termopereplet.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/termopereplet.html">
               <provider selected="true" editor-type-id="text-editor">
@@ -416,10 +426,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="voblers-hangers.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="voblers-hangers.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/voblers-hangers.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="414">
+                <state relative-caret-position="720">
                   <caret line="123" column="8" lean-forward="false" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
                   <folding>
                     <element signature="e#2502#2508#0" expanded="true" />
@@ -485,16 +495,6 @@
                     <element signature="e#2515#2521#0" expanded="true" />
                     <element signature="e#2521#2527#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="matirovanie-stekla.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/matirovanie-stekla.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="534">
-                  <caret line="106" column="10" lean-forward="false" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -574,7 +574,6 @@
         <option value="$PROJECT_DIR$/voblers-hanglers.html" />
         <option value="$PROJECT_DIR$/contacts.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/termopereplet.html" />
         <option value="$PROJECT_DIR$/types-of-survey.html" />
         <option value="$PROJECT_DIR$/visitki.html" />
@@ -593,6 +592,7 @@
         <option value="$PROJECT_DIR$/magnits.html" />
         <option value="$PROJECT_DIR$/matirovanie-stekla.html" />
         <option value="$PROJECT_DIR$/nodepads.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -606,7 +606,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="9" />
     <option name="width" value="1370" />
@@ -744,7 +744,7 @@
       <workItem from="1515931975363" duration="23120000" />
       <workItem from="1515972407225" duration="2821000" />
       <workItem from="1516028198732" duration="11135000" />
-      <workItem from="1516087327828" duration="3430000" />
+      <workItem from="1516087327828" duration="3625000" />
     </task>
     <task id="LOCAL-00001" summary="Start version of project">
       <created>1513793712919</created>
@@ -974,10 +974,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472665000" />
+    <option name="totallyTimeSpent" value="472860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20499243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1222,14 +1222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="183" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about-us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="511">
@@ -1395,7 +1387,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/voblers-hangers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="720">
           <caret line="123" column="8" lean-forward="false" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
           <folding>
             <element signature="e#2502#2508#0" expanded="true" />
@@ -1407,6 +1399,14 @@
             <element signature="e#3960#3966#0" expanded="true" />
             <element signature="e#3966#3972#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="168" column="76" lean-forward="false" selection-start-line="168" selection-start-column="76" selection-end-line="168" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
