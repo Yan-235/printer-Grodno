@@ -1027,6 +1027,10 @@ figure img {
 	padding-bottom: 55vh;
 }
 
+.bottom-padding-index {
+	padding-bottom: 14vh;
+}
+
 .copy-print-htextstyle {
 	color: white;
 	font-family: "Times New Roman";
@@ -1088,4 +1092,11 @@ table {
 		width: 50vw;
 		height: 40vw;
 	}
+}
+
+.color-white{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: white;
+	font-size: 1vw;
 }
